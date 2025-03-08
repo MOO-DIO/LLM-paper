@@ -1,1 +1,1 @@
-These files are materials used for Our LLM paper. It contains all physics items generated, data and r codes.
+These files are materials used for our LLM paper. It contains all physics-generated items, data, and R codes.
